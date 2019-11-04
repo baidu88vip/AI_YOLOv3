@@ -1,3 +1,4 @@
+data/images/validation/08000.png
 data/images/validation/08001.png
 data/images/validation/08002.png
 data/images/validation/08003.png

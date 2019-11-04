@@ -7185,4 +7185,3 @@ data/images/train/07996.png
 data/images/train/07997.png
 data/images/train/07998.png
 data/images/train/07999.png
-data/images/train/08000.png
